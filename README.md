@@ -12,6 +12,7 @@ Using dependencies:
 Requirements:
 
 -   Oracle 10/11g Database
+-   Oracle JDBC Driver in Maven local repository
 
 Usage:
 
